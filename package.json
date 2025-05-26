@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-demo-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js",
+  "test": "echo \"Running tests...\" && exit 0"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
